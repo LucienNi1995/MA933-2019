@@ -20,16 +20,11 @@ Notebooks will be uploaded for each support class.
 - Gershgorin disk theorem 
 
 `Support Class 3.ipynb`
-- general plotting techniques in matplotlib [http://matplotlib.org/1.5.3/api/pyplot_api.html#matplotlib.pyplot.plot]( http://matplotlib.org/1.5.3/api/pyplot_api.html#matplotlib.pyplot.plot)
-
-`Support Class 4.ipynb`
 - Kingman's Coalescent 
-- CTMC (waiting times, exponentially distributed)
-
-`Support Class 5.ipynb`
 - Orenstein-Uhlenbeck Process 
 - simulated by finite difference approximation (taking the Weiner incremenet by sampling from normal distributioon with zero mean and dt vaiance)
 - simulated using `sdeint` (python stochastic differential equations, numerical integration)
+- Fractional Brownian Motion, simulated using `fbm 0.3.0` 
 
 `Support Class 6.ipynb`
 - Moran model (similar to wright-fisher but continuous time)
